@@ -1,0 +1,15 @@
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\bin\Debug\net6.0\GuessANumberByDimitar.exe
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\bin\Debug\net6.0\GuessANumberByDimitar.deps.json
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\bin\Debug\net6.0\GuessANumberByDimitar.runtimeconfig.json
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\bin\Debug\net6.0\GuessANumberByDimitar.dll
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\bin\Debug\net6.0\GuessANumberByDimitar.pdb
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\obj\Debug\net6.0\GuessANumberByDimitar.csproj.AssemblyReference.cache
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\obj\Debug\net6.0\GuessANumberByDimitar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\obj\Debug\net6.0\GuessANumberByDimitar.AssemblyInfoInputs.cache
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\obj\Debug\net6.0\GuessANumberByDimitar.AssemblyInfo.cs
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\obj\Debug\net6.0\GuessANumberByDimitar.csproj.CoreCompileInputs.cache
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\obj\Debug\net6.0\GuessANumberByDimitar.dll
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\obj\Debug\net6.0\refint\GuessANumberByDimitar.dll
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\obj\Debug\net6.0\GuessANumberByDimitar.pdb
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\obj\Debug\net6.0\GuessANumberByDimitar.genruntimeconfig.cache
+C:\Users\mrdil\source\repos\GuessANumberByDimitar\GuessANumberByDimitar\obj\Debug\net6.0\ref\GuessANumberByDimitar.dll
